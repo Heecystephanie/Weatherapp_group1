@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-.heading{
-  text-align: center;
-  color: white;
-  font-size: 25px;
-  font-weight: bold;
-}
 
 body {
     font-family: 'montserrat', sans-serif;
@@ -18,7 +12,13 @@ body {
     background-position: top center;
 }
 
-
+.heading{
+  display: flex;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
 
 .app-wrap {
     display: flex;
