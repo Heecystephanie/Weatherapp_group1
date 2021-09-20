@@ -12,13 +12,7 @@ body {
     background-position: top center;
 }
 
-.heading{
-  display: flex;
-  text-align: center;
-  color: #FFF;
-  font-size: 25px;
-  font-weight: bold;
-}
+
 
 .app-wrap {
     display: flex;
