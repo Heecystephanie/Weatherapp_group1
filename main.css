@@ -13,11 +13,10 @@ body {
 }
 
 .heading{
-  margin: 0 auto;
   display: flex;
   justify-content: center;
   color: #FFF;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
 
