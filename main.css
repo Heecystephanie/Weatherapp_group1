@@ -11,6 +11,13 @@ body {
     background-position: top center;
 }
 
+#heading{
+ text-align: center;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
 .app-wrap {
     display: flex;
     flex-direction: column;
