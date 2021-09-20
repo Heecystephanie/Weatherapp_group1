@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+#heading{
+ text-align: center;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
 body {
     font-family: 'montserrat', sans-serif;
     background-image: url('cloud2.jpg');
@@ -11,12 +18,7 @@ body {
     background-position: top center;
 }
 
-#heading{
- text-align: center;
-  color: white;
-  font-size: 25px;
-  font-weight: bold;
-}
+
 
 .app-wrap {
     display: flex;
