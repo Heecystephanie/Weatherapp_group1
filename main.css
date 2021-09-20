@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 .heading{
   margin: 0 auto;
   display: flex;
@@ -6,14 +13,6 @@
   font-size: 20px;
   font-weight: bold;
 }
-
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 
 body {
     font-family: 'montserrat', sans-serif;
