@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#heading{
+.heading{
   text-align: center;
   color: white;
   font-size: 25px;
