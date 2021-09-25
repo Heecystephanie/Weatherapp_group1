@@ -15,8 +15,8 @@ body {
 .heading{
   display: flex;
   justify-content: center;
-  padding: 50px;
-  color: #FFF;
+  padding-top: 50px;
+  color: black;
   font-size: 25px;
   font-weight: bold;
 }
@@ -28,6 +28,19 @@ body {
     /* background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)); */
 
 }
+
+.pop {
+    text-align: center;
+    width: 50%;
+    top: 0.2rem;
+    margin: 1rem auto 3rem auto;
+    display: none;
+    padding: 20px;
+    background-color: rgb(238, 88, 88, 0.5);
+    color: #fff;
+    border-radius: 1rem;
+    z-index: 1000;
+  }
 
 header {
     display: flex;
